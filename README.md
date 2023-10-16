@@ -6,4 +6,4 @@ Click the add pacman button to add a new pacman to the screen. Click the start g
 
 ## Future Improvements
 This Project can be further enhanced by creating new styles and reaction to the pacman
-<img src="PacMan1.png">
+
