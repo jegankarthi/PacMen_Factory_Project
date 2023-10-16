@@ -1,9 +1,9 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+## Pacman factory
+Pac-Man is an action maze chase video game, Here the pacman is made move in random direction and in random velocity
 
+## Steps to Run the Project
+Click the add pacman button to add a new pacman to the screen. Click the start game button to make the pacman to move. On reptation click on the start game button will increase the velocity of the pacman
+
+## Future Improvements
+This Project can be further enhanced by creating new styles and reaction to the pacman
 <img src="PacMan1.png">
